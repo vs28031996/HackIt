@@ -30,7 +30,7 @@ It's imperative that communications systems shouldn't be affected in times of cr
 
 ## Demo video
 
-[![Watch the video](https://github.com/vs28031996/HackIt/blob/master/Video/demo.wmv)](https://github.com/vs28031996/HackIt/blob/master/Video/demo.wmv)
+[![Watch the video](Go to the Video link)](https://github.com/vs28031996/HackIt/blob/master/Video/demo.wmv)
 
 ## The architecture
 
@@ -47,16 +47,16 @@ It's imperative that communications systems shouldn't be affected in times of cr
 
 ## Getting started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you the project up and running on your system.
 
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [IBM Watson](https://www.ibm.com/watson) - question-answering computer system
+* [IBM Discovery](https://www.ibm.com/in-en/cloud/watson-discovery) - search and AI search technology 
+* [IBM Text-To-Speech](https://www.ibm.com/in-en/cloud/watson-text-to-speech) - The Text-to-speech framework used
+* [IBM Speech-To-Text ](https://www.ibm.com/in-en/cloud/watson-speech-to-text) - The Speech-to-text framework used
+* [Node-RED](https://developer.ibm.com/components/node-red/) - flow-based programming
 
 ## Authors
 
