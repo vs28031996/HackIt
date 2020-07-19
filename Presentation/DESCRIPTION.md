@@ -14,8 +14,7 @@ User will have to open https://node-red-xfpeg.eu-gb.mybluemix.net/ui URL in the 
 
 This Chatbot is hosted on public platform and is accessible to everyone on public internet. When user lands on the Web App Landing page, he/she will see 3 panels: Chat Panel, Options and Information Panel.
 * Chat panel wil show the Chat history of the user. 
-* Options Panel will show 3 indicator : Total Countries affected Count, Total Confirmed Cases Count and Total Deaths Count. With these indicators it will also give user
-	the microphone/voice input button and a "Clear Chat" button which will clear the chat history. 
+* Options Panel will show 6 indicator : Total Countries affected Count, Total Confirmed Cases Count, Total Deaths Count, India Cases With these indicators, Karnataka Cases and City Case. it will also give user the microphone/voice input button and a "Clear Chat" button which will clear the chat history. 
 * Information panel will show this message: "If you're facing issue with the voice chatbot, you can use our text conversational bot. Click the icon in the below right corner" to the user.
 
 When the user will click the microphone button, he/she will get a 5 second window to provide/record the input. The IBM Speech-To-Text will then convert the user's input in a proper statement which will then 
