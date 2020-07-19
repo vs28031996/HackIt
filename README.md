@@ -30,7 +30,7 @@ It's imperative that communications systems shouldn't be affected in times of cr
 
 ## Demo video
 
-[![Watch the video](Go to the Video link)](https://github.com/vs28031996/HackIt/blob/master/Video/demo.wmv)
+[Watch the video](https://github.com/vs28031996/HackIt/blob/master/Video/demo.wmv)
 
 ## The architecture
 
