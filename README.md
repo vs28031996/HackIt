@@ -9,7 +9,7 @@ GitHub repository for Call for Code submission.
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
-1. [Getting started](#getting-started
+1. [Getting started](#getting-started)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
@@ -34,20 +34,22 @@ It's imperative that communications systems shouldn't be affected in times of cr
 
 ## The architecture
 
-![Architecture](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Architecture](https://github.com/vs28031996/HackIt/blob/master/Presentation/image.png)
 
-1. The user navigates to the site and uploads a video file.
+1. The user navigates to the site to use the voice-bot.
 2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+3. Watson Assistant process the text input and outputs the result via text-to-speech service.
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[More detail is available here](https://github.com/vs28031996/HackIt/blob/master/Presentation/DESCRIPTION.md)
 
 ## Getting started
 
 These instructions will get you the project up and running on your system.
+1. Put this URL in your browser - https://node-red-xfpeg.eu-gb.mybluemix.net/ui/
+2. You'll see a dashboard with 3 panels - chat panel, where you can chat with the voice-bot; Options panel, where you'll see lot of statictics indicators and information panel.
+3. You can also use the text conversational bot by clicking the chat icon in the down right corner.
 
 ## Built with
 
